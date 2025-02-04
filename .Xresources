@@ -1,0 +1,23 @@
+Xft.rgba: rgb
+XTerm.termName: xterm-256color
+XTerm.vt100.faceName: Roboto Mono Regular:size=10
+XTerm.vt100.metaSendsEscape: true
+XTerm.vt100.foreground:   #d3d0c8
+XTerm.vt100.background:   #2d2d2d
+XTerm.vt100.cursorColor:  #d3d0c8
+XTerm.vt100.color0:       #2d2d2d
+XTerm.vt100.color8:       #747369
+XTerm.vt100.color1:       #f2777a
+XTerm.vt100.color9:       #f2777a
+XTerm.vt100.color2:       #99cc99
+XTerm.vt100.color10:      #99cc99
+XTerm.vt100.color3:       #ffcc66
+XTerm.vt100.color11:      #ffcc66
+XTerm.vt100.color4:       #6699cc
+XTerm.vt100.color12:      #6699cc
+XTerm.vt100.color5:       #cc99cc
+XTerm.vt100.color13:      #cc99cc
+XTerm.vt100.color6:       #66cccc
+XTerm.vt100.color14:      #66cccc
+XTerm.vt100.color7:       #d3d0c8
+XTerm.vt100.color15:      #f2f0ec
